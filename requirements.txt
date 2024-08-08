@@ -1,0 +1,9 @@
+torch
+torchvision
+tqdm
+tensorboard
+ml-collections
+apex
+numpy
+scikit-learn
+pytorch_pretrained_vit
