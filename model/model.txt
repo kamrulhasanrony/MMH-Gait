@@ -1,0 +1,1 @@
+After completed the training each model will save two .pt files (one of is best.pt & another one is last.pt)
