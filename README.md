@@ -148,32 +148,15 @@ The overall results shown in the following table (Here, **bold** and _italic_ nu
 
 ### Citation
 ```bibtex
-@article{han2005individual,
-  title={Individual recognition using gait energy image},
-  author={Han, Jinguang and Bhanu, Bir},
-  journal={IEEE transactions on pattern analysis and machine intelligence},
-  volume={28},
-  number={2},
-  pages={316--322},
-  year={2005},
-  publisher={IEEE}
-}
-@article{mogan2023gait,
-  title={Gait-CNN-ViT: Multi-model gait recognition with convolutional neural networks and vision transformer},
-  author={Mogan, Jashila Nair and Lee, Chin Poo and Lim, Kian Ming and Ali, Mohammed and Alqahtani, Ali},
-  journal={Sensors},
-  volume={23},
-  number={8},
-  pages={3809},
-  year={2023},
+@article{hasan2025mmf,
+  title={MMF-Gait: A Multi-Model Fusion-Enhanced gait recognition framework integrating convolutional and attention networks},
+  author={Hasan, Kamrul and Tuhin, Khandokar Alisha and Bapary, Md Rasul Islam and Doula, Md Shafi Ud and Alam, Md Ashraful and Ahad, Md Atiqur Rahman and Uddin, Md Zasim},
+  journal={Symmetry},
+  volume={17},
+  number={7},
+  pages={1155},
+  year={2025},
   publisher={MDPI}
-}
-@article{liu2024eeg,
-  title={EEG-based multimodal emotion recognition: a machine learning perspective},
-  author={Liu, Huan and Lou, Tianyu and Zhang, Yuzhe and Wu, Yixiao and Xiao, Yang and Jensen, Christian S and Zhang, Dalin},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  year={2024},
-  publisher={IEEE}
 }
 ```
 
