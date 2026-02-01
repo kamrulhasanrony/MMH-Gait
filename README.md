@@ -1,4 +1,4 @@
-<h4>MMH-Gait: A Multi Model Hybrid Approach for Gait Recognition Using VGG16, ResNet50, ViT, GoogLeNet (Inception-v1) and EfficientNet-B0 with Fusion Methods</h4>
+<h4>This is the OFFICIAL source code of the paper titled "MMF-Gait: A Multi-Model Fusion-Enhanced gait recognition framework integrating convolutional and attention networks"</h4>
 
 
 <div 
